@@ -1,0 +1,10 @@
+*{
+ color: #F0F0F0;
+ font-family: Futura, ‘Century Gothic’, AppleGothic, sans-seri;fho
+}
+#button:hover{
+  background-color: #888888;
+}
+#topbar{
+  background-color: #B0B0B0;
+}
