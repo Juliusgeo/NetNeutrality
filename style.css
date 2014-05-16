@@ -1,20 +1,48 @@
 *{
  color: #00000;
  font-family: Futura, ‘Century Gothic’, AppleGothic, sans-serif;
+ background-color:#E8E8E8;
 }
 #button:hover{
-  background-color: #888888;
-  height: 50px;
+  height: 15px;
   width: 100px;
-  display: block;
+  display: inline-block;
+  float: left;
+  color: #FFFFFF;
 }
 #button{
-  background-color: #B0B0B0;
-  height: 50px;
+  height: 15px;
   width: 100px;
-  display: block;
+  display: inline-block;
+  float: left;
 }
 #topbar{
-  background-color: #B0B0B0;
-  display:inline;
+  height: 50px;
+  width: 300px;
+  display:inline-block;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top:1%;
+}
+#buttonwords{
+    padding:3px;
+    text-align: center;
+}
+#quote{
+    color:#787878;
+    text-align:center;
+}
+#bodycontent{
+    background-color:#A8A8A8;
+    width: 340px;
+    height: auto;
+    max-height: 700px;
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 25%
+}
+#bodyparagraph{
+    padding: 10px;
+    color: #888888;
+    text-align: center;
 }
