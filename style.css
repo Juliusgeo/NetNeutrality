@@ -8,13 +8,18 @@
   width: 100px;
   display: inline-block;
   float: left;
-  color: #FFFFFF;
+  color: #BBBBBB;
+  -moz-user-select: none;
+  -ms-user-select: none;
+   cursor: default;
 }
 #button{
   height: 15px;
   width: 100px;
   display: inline-block;
   float: left;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
 #topbar{
   height: 50px;
