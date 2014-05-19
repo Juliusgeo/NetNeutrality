@@ -9,9 +9,6 @@
   display: inline-block;
   float: left;
   color: #FFFFFF;
-  -moz-user-select: none;
-  -ms-user-select: none;
-   cursor: pointer;
    background-color: #AAAAAA;
 }
 #button{
@@ -19,8 +16,7 @@
   width: 100px;
   display: inline-block;
   float: left;
-  -moz-user-select: none;
-  -ms-user-select: none;
+  
 }
 #topbar{
   height: 50px;
@@ -51,4 +47,9 @@
     padding: 10px;
     color: #888888;
     text-align: center;
+}
+.unselectable{
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
 }
