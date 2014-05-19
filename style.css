@@ -4,17 +4,18 @@
  background-color:#E8E8E8;
 }
 #button:hover{
-  height: 15px;
+  height: 25px;
   width: 100px;
   display: inline-block;
   float: left;
-  color: #BBBBBB;
+  color: #FFFFFF;
   -moz-user-select: none;
   -ms-user-select: none;
-   cursor: default;
+   cursor: pointer;
+   background-color: #AAAAAA;
 }
 #button{
-  height: 15px;
+  height: 25px;
   width: 100px;
   display: inline-block;
   float: left;
