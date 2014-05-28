@@ -9,14 +9,16 @@
   display: inline-block;
   float: left;
   color: #FFFFFF;
-   background-color: #AAAAAA;
+  background-color: #AAAAAA;
+  padding-top: 5px;
+
 }
 #button{
   height: 25px;
   width: 100px;
   display: inline-block;
   float: left;
-  
+  padding-top: 5px;
 }
 #topbar{
   height: 50px;
