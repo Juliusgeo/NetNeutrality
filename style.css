@@ -55,3 +55,6 @@
     -ms-user-select: none;
     -webkit-user-select: none;
 }
+a:link {color:#00000;}
+a:visited {color:#00000;}
+a:hover{color: #FFFFFF;}
