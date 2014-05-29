@@ -48,7 +48,7 @@
 #bodyparagraph{
     padding: 10px;
     color: #888888;
-    text-align: center;
+    text-align: left;
 }
 .unselectable{
     -moz-user-select: none;
