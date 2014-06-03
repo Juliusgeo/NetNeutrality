@@ -66,12 +66,9 @@ a:hover{color: #000;text-decoration:none;}
  color: #888888;
 }
 footer{
- position: absolute;
  font-size: small; 
  text-align: center; 
  width: 30%; 
- height: auto; 
  left: 35%; 
  right: 35%; 
- bottom: 0px;
 }
