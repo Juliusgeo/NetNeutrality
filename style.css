@@ -54,9 +54,9 @@
     -ms-user-select: none;
     -webkit-user-select: none;
 }
-a:link {color:#888888; text-decoration:none;}
-a:visited {color:#888888;text-decoration:none;}
-a:hover{color: #888888;text-decoration:none;}
+a:link {color:#000; text-decoration:none;}
+a:visited {color:#000;text-decoration:none;}
+a:hover{color: #000;text-decoration:none;}
 .active{
  background-color: #FFF;
  color: #AAAAAA;
