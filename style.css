@@ -65,3 +65,13 @@ a:hover{color: #000;text-decoration:none;}
 .linkfix{
  color: #888888;
 }
+footer{
+ position: fixed;
+ font-size: small; 
+ text-align: center; 
+ width: 30%; 
+ height: auto; 
+ left: 35%; 
+ right: 35%; 
+ bottom: 5px
+}
