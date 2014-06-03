@@ -66,7 +66,7 @@ a:hover{color: #000;text-decoration:none;}
  color: #888888;
 }
 footer{
- position: absolute;
+ position: fixed;
  font-size: small; 
  text-align: center; 
  width: 30%; 
