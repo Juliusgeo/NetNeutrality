@@ -37,12 +37,12 @@
     text-align:center;
 }
 #bodycontent{
+    position:relative;
     width: 30%;
     height: auto;
     max-height: 700px;
     margin-left: 35%;
     margin-right: 35%;
-    margin-top: 13%
 }
 #bodyparagraph{
     padding: 10px;
