@@ -21,7 +21,7 @@
   padding-top: 5px;
 }
 #topbar{
-  height: 50px;
+  height: 10%px;
   width: 300px;
   display:inline-block;
   margin-left: 40%;
@@ -42,7 +42,7 @@
     max-height: 700px;
     margin-left: 35%;
     margin-right: 35%;
-    margin-top: 15%
+    margin-top: 13%
 }
 #bodyparagraph{
     padding: 10px;
