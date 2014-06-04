@@ -15,17 +15,17 @@
 }
 #button{
   height: 25px;
-  width: 100px;
+  width: 33%;
   display: inline-block;
   float: left;
   padding-top: 5px;
 }
 #topbar{
   height: 50px;
-  width: 300px;
+  width: 10%;
   display:inline-block;
-  margin-left: 40%;
-  margin-right: 40%;
+  margin-left: 45%;
+  margin-right: 45%;
   margin-top:1%;
 }
 #buttonwords{
